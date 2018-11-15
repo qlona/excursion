@@ -12,17 +12,19 @@ h1, p, a{
   color:white;
   text-align: center;
 }
-.discovery, .guide{
+.discovery{
   text-align: center;
 }
 .guide h1{
   font-weight: 300;
   font-size: 42px;
   color:white;
+  text-align: center;
 }
 p{
   font-size: 21px;
   color:gray;
+  text-align: center;
 }
 p.excursion{
   color:gray;
@@ -31,4 +33,5 @@ p.excursion{
 a{
   font-size:16px;
   color:aquamarine;
+  text-align: center;
 }
