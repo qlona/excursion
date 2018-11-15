@@ -1,0 +1,33 @@
+body{
+  background-color: black;
+}
+h1, p, a{
+    font-family: Verdana;
+}
+.discovery h1{
+  font-weight: normal;
+  font-size: 50px;
+  color:white;
+  text-align: center;
+}
+.guide h1{
+  font-weight: 300;
+  font-size: 42px;
+  color:white;
+  text-align: center;
+}
+p{
+  font-size: 21px;
+  color:gray;
+}
+p .excursion{
+  color:gray;
+  text-align: right;
+}
+a{
+  font-size:16px;
+  color:aquamarine;
+}
+img, video{
+  text-align: center;
+}
